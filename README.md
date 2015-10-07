@@ -88,4 +88,4 @@ know there are no winning hands.
 ![Imgur](http://i.imgur.com/3g1qZf6.png)
 
 ##Acknowledgements##
-Credit is shared between Jonathan Hosler, Joshua Hester, and Vincent McAffrey. 
+Credit is shared between Jonathan Hosler, Joshua Hester, and Vincent McCaffrey. 
